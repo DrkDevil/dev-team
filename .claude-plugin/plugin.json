@@ -1,0 +1,16 @@
+{
+  "name": "dev-team",
+  "displayName": "Dev Team",
+  "version": "0.3.0",
+  "description": "Brian's main development team for any app: an orchestrator, team leads, workers that run in parallel, five gatekeepers, and specialists they load per task.",
+  "author": { "name": "Brian Orr, Digital Religion LLC" },
+  "license": "UNLICENSED",
+  "keywords": ["agents", "orchestration", "react", "mui", "storybook", "supabase", "stripe"],
+  "userConfig": {
+    "team_source": {
+      "type": "directory",
+      "title": "Dev Team source folder",
+      "description": "The folder where you keep this plugin's source (a git repo). Approved corrections and best-practice updates are written here, then you reinstall the plugin."
+    }
+  }
+}

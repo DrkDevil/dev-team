@@ -1,0 +1,14 @@
+{
+  "name": "digital-religion",
+  "description": "Digital Religion's own Claude Code plugins.",
+  "owner": {
+    "name": "Brian Orr"
+  },
+  "plugins": [
+    {
+      "name": "dev-team",
+      "source": "./",
+      "description": "Brian's main development team for any app."
+    }
+  ]
+}
